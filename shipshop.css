@@ -406,7 +406,7 @@ footer {
 }
 .footer-bottom{
   background: #000;
-  width: 100vw;
+  width: 100%;
   padding: 10px;
   padding-bottom: 10px;
   text-align: center;
