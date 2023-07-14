@@ -465,7 +465,7 @@ display: block;
     display: none;
   }
   .slideshow-container {
-    width: 1000px;
+    width: 250px;
   }
   .small-container {
     max-width: 300px;
@@ -496,9 +496,23 @@ display: block;
     box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%); 
     transition: transform .1s ease-in;
   }
+  #site-header {
+    height: 35px;
+  }
+  .site-identity img {
+    max-width: 30px;
+  }
+  .site-identity h1 {
+    margin: .7em 0 .3em 0;
+    display: inline-block;
+    list-style: none;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-shadow: none;
+    animation: animate 6s infinite linear;
+  }
   .site-navigation {
     float: left;
-    padding-left: 559px;
   }
   
   .site-navigation ul, li {
