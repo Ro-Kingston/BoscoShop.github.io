@@ -92,8 +92,6 @@ body {
  }
 .all-product {                                  /* All product */
   display: inline-block;
-  padding-left: 25px;
-  padding-right: 25px;
   padding-bottom: 44px;
 }
 .all-product .title {
