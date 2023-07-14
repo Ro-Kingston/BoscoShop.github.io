@@ -1,1 +1,1 @@
-# boscoshop.github.io
+# boscoshop.github.io/shipshop
