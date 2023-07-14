@@ -91,7 +91,6 @@ body {
   color: #ff523b;
  }
 .all-product {                                  /* All product */
-  display: inline-block;
   margin: auto;
   padding-bottom: 44px;
 }
