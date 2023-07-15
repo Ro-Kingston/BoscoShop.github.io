@@ -505,4 +505,33 @@ display: block;
     padding-left: 0;
     padding-right: 0;
   }
+  .marquee_slide .span-yellow{
+    color: yellow;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    font-size: 15px;
+  }
+  marquee_slide .span-red{
+    color: blue;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .all-product {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .col-2 img {
+    width: 87px;
+    height: 40%;
+  }
+  .col-2 p {
+    font-size: 7px;
+  }
+  .col-2 h4 {
+    font-size: 9px;
+  }
+  .row-product {
+    display: grid;
+    width: auto;
+  }
 }
