@@ -523,6 +523,9 @@ display: block;
     padding-bottom: 10px;
     overflow-x: auto;
   }
+  .all-product::-webkit-scrollbar {
+    width: 0;
+  }
   .col-2 img {
     width: 53px;
     height: 40%;
