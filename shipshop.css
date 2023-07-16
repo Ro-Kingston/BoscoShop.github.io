@@ -492,7 +492,6 @@ display: block;
   }
   .col-1{
     flex-basis: 10%;
-    box-sizing: border-box;
     padding: 0;
     min-width: 100px;
     min-height: 100px;
@@ -500,6 +499,7 @@ display: block;
   .row {
     display: flex;
     margin: 0;
+    overflow-x: auto;
   }
   .small-container {
     padding-left: 0;
@@ -517,6 +517,7 @@ display: block;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   .all-product {
+    display: flex;
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 10px;
