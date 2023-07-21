@@ -80,6 +80,8 @@ body {
 table td{
     border: none;
     text-align: center;
+    font-family: 'khmer';
+    font-size: 22px;
 }
 table {
     border-spacing: 30px;
