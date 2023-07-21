@@ -1,5 +1,5 @@
 * {
-    margin: o;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -71,6 +71,9 @@ body {
     100% {
         transform: translateX(1);
     }
+}
+h1 {
+    font-family: 'khmer';
 }
 .assignment-team {
     display: flex;
